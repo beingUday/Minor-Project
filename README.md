@@ -2,6 +2,9 @@
 
 Dataset:
 
+Link: https://www.kaggle.com/datasets/udaybansal01022004/minor-project-dataset
+
+Direct Import:
 
 import kagglehub
 
